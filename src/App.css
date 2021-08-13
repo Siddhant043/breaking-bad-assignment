@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: url(./img/bg.jpg) no-repeat center center/cover;
+  height: 740vh;
+  color: #fff;
+}
+
+.app {
+  max-width: 1100px;
+  margin: auto;
+  padding: 0 20px;
+}
